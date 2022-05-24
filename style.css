@@ -1,0 +1,27 @@
+body {
+  font-size: 14px;
+  color: navy;
+}
+
+h1 {
+  color: #ffc;
+  background-color: #009;
+}
+
+h2 {
+  font-size: 1.5em;
+  background-color: #ccc;
+  margin: 20px;
+  padding: 40px;
+  border-style: dashed;
+  border-width: 3px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-color: red;
+}
+
+
+td, th {
+  border: 1px solid #999;
+  padding: 0.1em 1em;
+}
